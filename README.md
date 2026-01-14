@@ -63,10 +63,10 @@ Here are some of the projects I’ve worked on:
 🤝 Let’s Connect
 
 ## 🤝 Let’s Connect
-- 💼 GitHub: [https://github.com/Sufiyangani](https://github.com/Sufiyangani)
-- 💼 LinkedIn: [https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/](https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/)
-- 📧 Email: [your.email@example.com](ssufiyangani@gmail.com)
-- 💬 Open to collaboration and learning opportunities
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sufiyangani-181717?style=for-the-badge&logo=github)](https://github.com/Sufiyangani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Sufiyan%20Gani-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](ssufiyangani@gmail.com)
 
 
 
