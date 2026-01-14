@@ -61,7 +61,8 @@ Here are some of the projects I’ve worked on:
 ---
 
 ## 🤝 Let’s Connect
-- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+- 💼 GitHub: https://github.com/Sufiyangani
+- linkedin : https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/
 - 📧 Email: your.email@example.com
 - 💬 Open to collaboration and learning opportunities
 
