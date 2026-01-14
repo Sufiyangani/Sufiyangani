@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Sufiyan Gani  
 
-<!--
-**Sufiyangani/Sufiyangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer**
 
-Here are some ideas to get you started:
+I’m passionate about extracting meaningful insights from data and building machine learning models to solve real-world problems. I enjoy working on data preprocessing, exploratory data analysis, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+- 📊 Interested in **Data Science, Machine Learning, and Analytics**
+- 🐍 Strong foundation in **Python** and data-driven problem solving
+- 📈 Love working with **EDA, feature engineering, and model evaluation**
+- 🌱 Currently learning **advanced ML techniques & deployment**
+- 🧠 Believe in learning by building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Libraries & Tools**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+**Machine Learning**
+- Regression & Classification
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+
+**Tools & Platforms**
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Projects
+Here are some of the projects I’ve worked on:
+
+- 📌 **Exploratory Data Analysis (EDA)** – Data cleaning, visualization, and insights  
+- 📌 **Machine Learning Models** – Linear Regression, Logistic Regression, KNN, Decision Trees  
+- 📌 **End-to-End ML Pipelines** – From raw data to predictions  
+
+👉 Check my repositories for hands-on implementations.
+
+---
+
+## 📊 What I’m Currently Working On
+- Improving ML model performance
+- Learning **model deployment**
+- Practicing **real-world datasets**
+- Strengthening **statistics & probability**
+
+---
+
+## 🤝 Let’s Connect
+- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+- 📧 Email: your.email@example.com
+- 💬 Open to collaboration and learning opportunities
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
