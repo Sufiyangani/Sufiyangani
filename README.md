@@ -60,11 +60,13 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-## 🤝 Let’s Connect
+🤝 Let’s Connect
 
-- 💼 **GitHub:** [Sufiyangani](https://github.com/Sufiyangani)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **LinkedIn:** [Mohd Sufiyan Gani](https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/)
-- 📧 **Email:** [mohd.sufiyan.gani@gmail.com]()
+💼 GitHub: https://github.com/Sufiyangani
+
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/
+
+📧 Email: ssufiyangani@gmail.com
 
 
 ---
