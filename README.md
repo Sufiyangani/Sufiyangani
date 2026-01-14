@@ -64,10 +64,10 @@ Here are some of the projects I’ve worked on:
 
 ## 🤝 Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sufiyangani-181717?style=for-the-badge&logo=github)](https://github.com/Sufiyangani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Sufiyan%20Gani-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](ssufiyangani@gmail.com)
-
+- 💼 **GitHub:** [Sufiyangani](https://github.com/Sufiyangani)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> **LinkedIn:** [Mohd Sufiyan Gani](https://www.linkedin.com/in/mohd-sufiyan-gani-b03b5b3a2/)
+- 📧 **Email:** [mohd.sufiyan.gani@gmail.com](mailto:ssufiyangani@gmail.com)
+- 💬 Open to collaboration and learning opportunities
 
 
 ---
